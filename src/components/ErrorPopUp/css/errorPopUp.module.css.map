@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "errorPopUp.module.scss"
+    ],
+    "names": [],
+    "file": "errorPopUp.module.css"
+}

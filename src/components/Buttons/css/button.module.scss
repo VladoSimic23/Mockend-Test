@@ -1,0 +1,30 @@
+.btn {
+    border:none;
+    transition: all 0.2s;
+    cursor: pointer;
+    padding: 10px 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.btnPrimary {
+
+    background: rgba(0, 0, 255, 0.557);
+    color: white;
+    &:hover {
+        background: rgba(0, 0, 255, 0.798);
+    }
+}
+.btnRed {
+    background: rgba(255, 38, 0, 0.995);
+    color: white;
+    &:hover {
+        background: rgba(255, 106, 0, 0.798);
+    }
+}
+.btnGreen {
+    background: rgba(33, 142, 6, 0.995);
+    color: white;
+    &:hover {
+        background: rgba(15, 198, 27, 0.798);
+    }
+}
